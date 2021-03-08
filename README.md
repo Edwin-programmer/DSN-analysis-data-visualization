@@ -3,4 +3,4 @@ Project: Analysis of Developer Social Network, Contribution Pattern and Link to 
 
 
 
-![DSN visualization result!](/DSN-analysis-data-visualization/DSN files/Grouping result.jpg "DSN visualization result")
+![DSN visualization result!](/DSN-analysis-data-visualization/DSN files/Grouping result.png "DSN visualization result")
