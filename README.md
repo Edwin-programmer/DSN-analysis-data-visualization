@@ -13,6 +13,7 @@ This project is an analysis using a case study gitlab project: Tiki Project
 
 ![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/Grouping%20result.png)
 ### Data Extraction
+![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/extract1.jpg)
 
 ### Data Categorization
 
