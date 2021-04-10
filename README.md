@@ -1,4 +1,4 @@
-# DSN analysis and data visualization
+# DSN Analysis and Data Visualization (Temporal Networks)
 ## Analysis of Developer Social Network, Contribution Patterns and Link to Bug fixes
 
 This project is an analysis using a case study gitlab project: Tiki Project
@@ -27,3 +27,12 @@ Overall, the network comprises of 174 Nodes and 28021 Edges.
 + Temporal networks are network representations that flow through time. They give a view of the network as it develops over time, taking snapshots at a few key moments over the course of its timespan
 ![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/visualize2.jpg)
 ![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/visualize3.jpg)
++ Degree, betweenness and centrality.
+
+Ranking: Using Node Degree (15 <= x <= 23) 
+
+Average degree:0.065
+Graph Density:0
+Leiden algorithm: 0.984
+Avg. Weighted Degree: 0.549
+
