@@ -1,5 +1,5 @@
 # DSN analysis and data visualization
-## Project: Analysis of Developer Social Network, Contribution Patterns and Link to Bug fixes
+## Analysis of Developer Social Network, Contribution Patterns and Link to Bug fixes
 
 This project is an analysis using a case study gitlab project: Tiki Project
 + It produces results from Data (log) extraction and collection, Data clean-up, Data Categorization, Data Visualisation of developer contributions to the project.
