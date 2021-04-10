@@ -21,3 +21,4 @@ This project is an analysis using a case study gitlab project: Tiki Project
 ![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/visualize1.jpg)
 
 ![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/visualize2.jpg)
+![DSN visualization result](https://github.com/Edwin-programmer/DSN-analysis-data-visualization/blob/main/DSN%20files/visualize3.jpg)
