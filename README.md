@@ -1,4 +1,4 @@
-# DSN Analysis and Data Visualization (Temporal Networks)
+# DSN Analysis and Data Visualization
 ## Analysis of Developer Social Network, Contribution Patterns and Link to Bug fixes
 
 This project is an analysis using a case study gitlab project: Tiki Project
